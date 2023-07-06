@@ -3,6 +3,7 @@ body {
   --marrom-escuro: #816D4F;
   --marrom-claro: #B29463;
   font-family: 'Barlow', sans-serif;
+  height: 4000px;
 }
 
 input[type=checkbox] {
